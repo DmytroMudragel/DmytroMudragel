@@ -1,10 +1,13 @@
-## Hi there 👋
+## Hi there, I'm Dmytro Mudragel👋
+
+# About Me
+- ⚡ Passionate fullstack developer specializing in **.NET**, **C#**.
+- 🌱 Currently expanding my expertise in **ASP.NET Core**, **Entity Framework** and frontend frameworks like **React** and **Angular**.
+- 🤝 Open to collaboration on **fullstack web applications**, **open-source .NET projects**, and innovative tech initiatives.
+- 📫 You can reach me at: **mudrageldmytro@gmail.com**
 
 <!--
 **DmytroMudragel/DmytroMudragel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
