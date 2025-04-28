@@ -4,7 +4,8 @@
 - ⚡ Passionate fullstack developer specializing in **.NET**, **C#**.
 - 🌱 Currently expanding my expertise in **ASP.NET Core**, **Entity Framework** and frontend frameworks like **React** and **Angular**.
 - 🤝 Open to collaboration on **fullstack web applications**, **open-source .NET projects**, and innovative tech initiatives.
-- 📫 You can reach me at: **mudrageldmytro@gmail.com**
+- 🌐 My LinkedIn page: [DmytroMudragel](https://www.linkedin.com/in/dmytro-mudragel-5042ab266)
+- 📫 You can reach me at: **mudrageldmytro@gmail.com** 
 
 <!--
 **DmytroMudragel/DmytroMudragel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
